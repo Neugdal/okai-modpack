@@ -2,9 +2,8 @@
   "mods": [
     {
       "name": "Fabric API",
-      "file": "fabric-api-0.102.0+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/.../fabric-api-0.102.0+1.21.1.jar",
-      "sha1": "aquí va el sha1"
+      "file": "fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
     }
   ]
 }
